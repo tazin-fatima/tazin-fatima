@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**tazin-fatima/tazin-fatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Tazeen Fatima</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  💻 Computer Science Student | Web Developer | Creative Video Editor
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about technology,
+  creativity, and building new things.
+</p>
+
+---
+
+### 🌸 About Me
+
+- 🎓 Computer Science Student at Allama Iqbal Open University
+- 💻 Completed Web Development (Web 1 & Web 2)
+- 🌱 Currently learning Backend Development
+- 🎬 I also enjoy Video Editing
+- 🚀 Always learning, exploring, and improving my skills
+- ✨ Passionate about turning ideas into reality
+
+### 🛠️ Technologies & Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+### 🎯 My Goals
+
+- Build creative and useful web applications
+- Improve my backend development skills
+- Explore new technologies
+- Grow as a developer
+
+### 💫 A Little About Me
+
+<p align="center">
+  "Learning every day, building step by step,
+  and creating something meaningful." 🚀
+</p>
+
+---
+
+<h3 align="center">Thanks for visiting my profile! 💖</h3>
